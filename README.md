@@ -12,4 +12,6 @@ Done for CMPT 381 (Implementation of Graphical User Interfaces) at the Universit
  
  Click and drag on the yellow points to move them. Only the most recently selected point's value will be displayed.
  
+ Top left is supposed to be a mini-map (not finished)
+ 
  ![Example of use](https://github.com/henfang/ChartExtract/blob/master/example.png?raw=true)
