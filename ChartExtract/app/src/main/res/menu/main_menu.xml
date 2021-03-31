@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/choose_chart"
+          android:title="Choose Chart" />
+    <item android:id="@+id/screenshot"
+          android:title="Screenshot"/>
+    <item android:id="@+id/export_data"
+          android:title="Export Data"/>
+</menu>
