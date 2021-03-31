@@ -12,4 +12,4 @@ Done for CMPT 381 (Implementation of Graphical User Interfaces) at the Universit
  
  Click and drag on the yellow points to move them. Only the most recently selected point's value will be displayed.
  
- 
+ ![alt text](https://github.com/henfang/ChartExtract/blob/master/example_chart.png?raw=true)
